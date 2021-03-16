@@ -1,10 +1,10 @@
 {
 	"authors": [
-		{ "email": "bappli@bappli.com", "name": "B-APPLI"  }
+		{ "email": "diffusion@bappli.com", "name": "B-APPLI Diffusion" }
 	],
 	"description":  "An empty repository in order to claim our name where needed",
 	"license":      "MIT",
-	"name":         "bappli/repome",
+	"name":         "bapplidiffusion/repome",
 	"version":      "0.0.1"
 }
 
